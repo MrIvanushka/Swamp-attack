@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8aa2b3c4e32f51489e43d0bba40081e, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  _label: "\u0414\u0440\u043E\u0431\u043E\u0432\u0438\u043A"
+  _price: 8
+  _icon: {fileID: 21300000, guid: ab041c52fa8a35e47b63b4c6c177a6b0, type: 3}
+  _isBuyed: 1
+  Bullet: {fileID: 7411000815468289610, guid: 6d7f1b77be9e9684d921f713d6a5f829, type: 3}
+  _bulletCount: 4
