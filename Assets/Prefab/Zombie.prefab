@@ -14,13 +14,15 @@ GameObject:
   - component: {fileID: 3207617679987409856}
   - component: {fileID: 3207617679987409857}
   - component: {fileID: 3207617679987409866}
+  - component: {fileID: -5356571547756796106}
+  - component: {fileID: -8649531029912033097}
   - component: {fileID: 3207617679987409867}
   - component: {fileID: 3207617679987409868}
   - component: {fileID: 3207617679987409869}
   - component: {fileID: 3207617679987409870}
   - component: {fileID: 3207617679987409871}
   m_Layer: 0
-  m_Name: Minotaur
+  m_Name: Zombie
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -101,7 +103,7 @@ Animator:
   m_GameObject: {fileID: 3207617679987409861}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 59c0a82b084c04e4f88cd0f2994972e8, type: 2}
+  m_Controller: {fileID: 9100000, guid: f86f2fa68b106f348b5425fd97e8b573, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -148,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1dcf3b9badc5724fba38eaca6cd68d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _health: 5
+  _health: 1
   _reward: 1
 --- !u!114 &3207617679987409866
 MonoBehaviour:
@@ -162,7 +164,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d888ba0954ee3284f9782ccc02102922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _firstState: {fileID: 3207617679987409867}
+  _firstState: {fileID: -5356571547756796106}
+--- !u!114 &-5356571547756796106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3207617679987409861}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b32bab39e20d134fbbb2e7cd5e80c52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _transitions:
+  - {fileID: -8649531029912033097}
+--- !u!114 &-8649531029912033097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3207617679987409861}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188d56e6d21bcfd41846125fed5e854e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _targetState: {fileID: 3207617679987409867}
+  _delay: 1
 --- !u!114 &3207617679987409867
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -207,7 +237,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _transitions:
   - {fileID: 3207617679987409870}
-  _damage: 5
+  _damage: 2
   _delay: 1
 --- !u!114 &3207617679987409870
 MonoBehaviour:

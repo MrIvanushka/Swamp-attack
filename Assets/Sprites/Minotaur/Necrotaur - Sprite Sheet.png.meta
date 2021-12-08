@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 9cf8a05d8ef3e2b4e86abcad8439165a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7036167080480936065
+    second: Necrotaur - Sprite Sheet_0
+  - first:
+      213: 3964691612191670020
+    second: Necrotaur - Sprite Sheet_1
+  - first:
+      213: 2003690493626241330
+    second: Necrotaur - Sprite Sheet_2
+  - first:
+      213: -6345631046449547474
+    second: Necrotaur - Sprite Sheet_3
+  - first:
+      213: -6572495939179125817
+    second: Necrotaur - Sprite Sheet_4
+  - first:
+      213: 7750639680941878344
+    second: Necrotaur - Sprite Sheet_5
+  - first:
+      213: 3459452631172873320
+    second: Necrotaur - Sprite Sheet_6
+  - first:
+      213: -3022821704185570745
+    second: Necrotaur - Sprite Sheet_7
+  - first:
+      213: -1634565625273381662
+    second: Necrotaur - Sprite Sheet_8
+  - first:
+      213: -2775146022551544510
+    second: Necrotaur - Sprite Sheet_9
+  - first:
+      213: 5422209257109044708
+    second: Necrotaur - Sprite Sheet_10
+  - first:
+      213: 4814056726301076180
+    second: Necrotaur - Sprite Sheet_11
+  - first:
+      213: 7194363697326570907
+    second: Necrotaur - Sprite Sheet_12
+  - first:
+      213: -3092147644039991962
+    second: Necrotaur - Sprite Sheet_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 90
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.39545295, y: 0.01023674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe2abc1538a5e90800000000000000
+      internalID: -7036167080480936065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 92
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.41469255, y: 0.009987064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb7a4f30a650730800000000000000
+      internalID: 3964691612191670020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 90
+        width: 47
+        height: 42
+      alignment: 9
+      pivot: {x: 0.40416506, y: -0.00974964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2315b6053e98ecb10800000000000000
+      internalID: 2003690493626241330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 88
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4020817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e273fa01f2acfe7a0800000000000000
+      internalID: -6345631046449547474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 90
+        width: 45
+        height: 41
+      alignment: 9
+      pivot: {x: 0.39080608, y: -0.00000018608279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3e78114cdc9c4a0800000000000000
+      internalID: -6572495939179125817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 92
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4162431, y: -0.00000018608279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c6694a9bdcf8b60800000000000000
+      internalID: 7750639680941878344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 90
+        width: 49
+        height: 41
+      alignment: 9
+      pivot: {x: 0.39136365, y: -0.00000018608279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c795ec6d1720030800000000000000
+      internalID: 3459452631172873320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 88
+        width: 52
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3661323, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a9da6fca7cc06d0800000000000000
+      internalID: -3022821704185570745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 28
+        width: 46
+        height: 48
+      alignment: 9
+      pivot: {x: 0.65132797, y: 0.008530538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec048f593bd059e0800000000000000
+      internalID: -1634565625273381662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 28
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6513277, y: 0.017424319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d1af55563bc79d0800000000000000
+      internalID: -2775146022551544510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 28
+        width: 46
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6691311, y: -0.00000019462742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edb1db579e8f3b40800000000000000
+      internalID: 5422209257109044708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 28
+        width: 46
+        height: 51
+      alignment: 9
+      pivot: {x: 0.67803293, y: 0.008028741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da61cb2617fec240800000000000000
+      internalID: 4814056726301076180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 28
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6655325, y: -0.008530934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dbd145aa387d360800000000000000
+      internalID: 7194363697326570907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necrotaur - Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 28
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6602292, y: -0.00000020290943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d6fe3c91c7615d0800000000000000
+      internalID: -3092147644039991962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
